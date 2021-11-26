@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	int a = 5, b = a + a;
+	int a = 5, b;
 	printf("A soma equivale a: %d", a);
-	printf(" somando: %d + %d = &b", b);
+	printf("%d", &b);
 	return 0;
 }
