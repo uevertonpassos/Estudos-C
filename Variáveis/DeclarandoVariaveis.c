@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int num = 5, num2 = 3;
+	int num = 5;
 	printf("O valor do numero é, %d", num);
 	return 0;
 }
